@@ -1,6 +1,4 @@
 
-
-```markdown
 # Food Ordering Application 🍔📱
 
 This is a simple **Food Ordering System** implemented using Python's socket programming over TCP. It demonstrates a basic **client-server architecture**, where the client can view a menu and place orders, and the server receives and processes the orders.
